@@ -5,14 +5,9 @@ Completed my final SQL project as part of a 30-day course by Satish Dhawale Sir 
 ✅ Practiced SELECT, JOIN, GROUP BY, HAVING, ORDER BY, and Aggregate functions.
 🔍 Queries included:
 
-Revenue calculation
-
-Top-selling books
-
-Frequent customers
-
-Stock management
-
-Genre-based insights
-
+- Revenue calculation
+- Top-selling books
+- Frequent customers
+- Stock management
+- Genre-based insights
 Grateful for this learning journey! 💻
